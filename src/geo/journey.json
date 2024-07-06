@@ -1,0 +1,169 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "icon": "yacht",
+        "chapter": 2,
+        "date": ["1956-12-22"],
+        "description": "We were soon out of the river and opposite <u>Williamstown</u>. We had our clearance, and the launch came alongside again to take off the Customs Officer."
+      },
+      "geometry": {
+        "coordinates": [144.9146790022644, -37.8524461383288],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "icon": "anchor",
+        "chapter": 2,
+        "date": ["1956-12-22"],
+        "description": "For the rest of the day we sailed slowly across the big land-locked bay, until evening brought the lights winking out on the shore, and the channel buoys began to flash the way to the <u>Heads</u>. We dropped anchor off <u>Dromana</u>, waiting as so many sailing ships had done before, for the ebb tide to take us down early next morning to the <u>Heads</u>, so that we could pass through them at slack water."
+      },
+      "geometry": {
+        "coordinates": [144.8948928904552, -38.32097888808846],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "icon": "yacht",
+        "chapter": 2,
+        "date": ["1956-12-22"],
+        "description": "The buoys came up out of the murk one after the other, and we checked their numbers against the chart. The mist cleared and we could see the <u>Heads</u>, and as soon as we were on the right bearing we turned to run out. As we passed the signal station at <u>Point Lonsdale</u> we saw the signal for the tides change from the last quarter to the first quarter; it was exactly slack water and there was no ripple on the surface. On the port hand there was the black and red rusting hull of a steamer wrecked on the shoals, and ahead the sails of two yachts. As soon as we were through we stopped the engine and got up sail ourselves, but the wind was very light from the south and we made very slow progress on the port tack."
+      },
+      "geometry": {
+        "coordinates": [144.63923784747158, -38.296134681681714],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4
+      },
+      "geometry": {
+        "coordinates": [144.6278159504419, -38.459712267873385],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "icon": "yacht",
+        "chapter": 2,
+        "date": ["1957-12-23"],
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [144.68493090846522, -38.521304848078415],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6
+      },
+      "geometry": {
+        "coordinates": [145.03566897481159, -38.49280081965322],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7
+      },
+      "geometry": {
+        "coordinates": [145.18324748643977, -38.446417421972406],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "icon": "anchor",
+        "chapter": 2,
+        "date": ["1957-12-23", "1957-12-24"],
+        "description": "We tied up to a wharf at a small harbour called <u>Cowes</u>, leaving an anchor out to hold us off the wharf if the wind shifted.\n...\nAll Christmas Day the wind blew strongly down the channel, and we stayed at anchor, very busy making everything still more secure for the journey ahead, and it was not until Boxing Day morning that we set about getting the anchor in again, in time to sail with the tide."
+      },
+      "geometry": {
+        "coordinates": [145.26133843811022, -38.44601355232407],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "chapter": 2
+      },
+      "geometry": {
+        "coordinates": [145.18324748643977, -38.446417421972406],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "icon": "yacht",
+        "chapter": "2",
+        "date": ["1957-12-26"],
+        "description": "By midday we were passing the lighthouse at the entrance to the loch, and we could see little coloured specks of holiday visitors all along the cliff-top. We kept under power until we were far enough out to clear <u>Seal Rocks</u> on the port tack, on our course for the south."
+      },
+      "geometry": {
+        "coordinates": [145.0894468295179, -38.526058347910215],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "icon": "yacht",
+        "chapter": 3,
+        "date": ["1956-12-26"],
+        "description": "I hung up my coat in the oilskin locker, in front of the chart table, and then turned to the chart and laid a course down past Wilson Promontory, past Rodonda Island and the Curtis group, and up to the entrance of the Banks Strait, the southern passage through the islands, which lie between Australia and the north coast of Tasmania."
+      },
+      "geometry": {
+        "coordinates": [146.19118236387408, -39.10917507687288],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "chapter": 3,
+        "date": ["1956-12-26"]
+      },
+      "geometry": {
+        "coordinates": [146.3622829693369, -39.245175746935146],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 16,
+        "icon": "yacht",
+        "chapter": 3,
+        "date": ["1956-12-27"]
+      },
+      "geometry": {
+        "coordinates": [147.9275349820308, -40.56004100370308],
+        "type": "Point"
+      }
+    }
+  ]
+}

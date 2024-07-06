@@ -1,0 +1,278 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "icon": "sight",
+        "title": "South wharf",
+        "chapter": 1,
+        "description": "Immediately opposite Britannia, and tied up to the <u>south wharf</u>, there was another yacht, also flying the British flag, for she was registered in England, although her home was now in Canada. She was very small compared to her royal neighbour, but she also intended to sail in a few days for England, and by the same route, south of New Zealand and south of Cape Horn. She was called Tzu Hang, and she was ours."
+      },
+      "geometry": {
+        "coordinates": [144.94920216518108, -37.825341956569595],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "icon": "sight",
+        "title": "Spencer Street bridge",
+        "chapter": 1,
+        "description": "The crowd still thronged the <u>Spencer Street bridge</u> when Clio and I came back from the Olympic Games.\n...\nLooking down river from the bridge, we could see how it wound its way between wharves, warehouses, and docks, its course marked by high cranes and the masts of ships, until in its last mile it curved between low flat banks to its outlet in <u>Port Philip Bay</u>."
+      },
+      "geometry": {
+        "coordinates": [144.95593675879377, -37.82296935297926],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "icon": "sight",
+        "title": "Flinders Street",
+        "chapter": 1,
+        "description": "...across the river from Tzu Hang, ran <u>Flinders Street</u>, with its ships’ chandlers, whose shops Beryl visited every day with a preoccupied air and carrying long lists in her hand."
+      },
+      "geometry": {
+        "coordinates": [144.95919086950272, -37.81988260407519],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "icon": "sight",
+        "title": "Collins Street",
+        "chapter": 1,
+        "description": "Behind <u>Flinders Street</u>, the land sloped up to <u>Collins Street</u>, with its banks and clubs and prosperous good-looking buildings, and to the low hills on which the city of Melbourne is built."
+      },
+      "geometry": {
+        "coordinates": [144.9690344332729, -37.81480181217965],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "icon": "sight",
+        "title": "Yarra River",
+        "chapter": 2,
+        "description": "It was a sparkling summer day, with a light wind blowing up the Yarra River. A little further down, a big cargo ship was docking. The tug, whose whistle had stirred us to movement, was pushing the steamer’s stern in to the wharf."
+      },
+      "geometry": {
+        "coordinates": [144.92172558870135, -37.819264300118775],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "icon": "sight",
+        "title": "Williamstown",
+        "chapter": 2,
+        "description": "We were soon out of the river and opposite <u>Williamstown</u>."
+      },
+      "geometry": {
+        "coordinates": [144.8911008460384, -37.86125123900073],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "icon": "sight",
+        "title": "Dromana",
+        "chapter": 2,
+        "description": "We dropped anchor off <u>Dromana</u>, waiting as so many sailing ships had done before, for the ebb tide to take us down early next morning to the <u>Heads</u>, so that we could pass through them at slack water."
+      },
+      "geometry": {
+        "coordinates": [144.96566593658343, -38.34279101853018],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "icon": "sight",
+        "title": "Port Phillip Heads (Heads)",
+        "chapter": 2,
+        "description": "<u>Port Phillip Heads</u> are a narrow gap, only a few hundred yards across, through which all the vast area of <u>Port Phillip Bay</u> pours out its waters during the ebb tide, and through which the sea comes boiling and bubbling on the flood. If the wind is against the ebb, the passage can be very dangerous. It was slack water at the Heads at ten-thirty so that we didn’t have to get up early."
+      },
+      "geometry": {
+        "coordinates": [144.6279980501866, -38.293928231850764],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "icon": "sight",
+        "title": "Point Lonsdale",
+        "chapter": 2,
+        "description": "As we passed the signal station at <u>Point Lonsdale</u> we saw the signal for the tides change from the last quarter to the first quarter; it was exactly slack water and there was no ripple on the surface. On the port hand there was the black and red rusting hull of a steamer wrecked on the shoals, and ahead the sails of two yachts."
+      },
+      "geometry": {
+        "coordinates": [144.6139475325378, -38.27237911794649],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "icon": "sight",
+        "title": "Westernport (bay)",
+        "chapter": 2,
+        "description": "We turned in for the rest of the night, and early next morning set off for Westernport, a few miles down the coast and up a long arm of the sea."
+      },
+      "geometry": {
+        "coordinates": [145.25108377480393, -38.38644690075653],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "icon": "sight",
+        "title": "Cowes",
+        "chapter": 2,
+        "description": "We tied up to a wharf at a small harbour called Cowes, leaving an anchor out to hold us off the wharf if the wind shifted."
+      },
+      "geometry": {
+        "coordinates": [145.23982390116987, -38.44893697586728],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "icon": "sight",
+        "title": "Seal Rocks",
+        "chapter": 2,
+        "description": "We kept under power until we were far enough out to clear Seal Rocks on the port tack, on our course for the south.\n'I wonder how many rocks there are in the world called 'Seal Rocks'?' said John.\n'Let’s hope the next 'Seal Rocks' will be called 'Los Lobos',' said Beryl, 'that’s what they call them in South America.'"
+      },
+      "geometry": {
+        "coordinates": [145.09968510900148, -38.52641599894474],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13,
+        "icon": "sight",
+        "title": "Wilson Promontory",
+        "chapter": 3,
+        "description": "I hung up my coat in the oilskin locker, in front of the chart table, and then turned to the chart and laid a course down past Wilson Promontory, past Rodonda Island and the Curtis group, and up to the entrance of the Banks Strait, the southern passage through the islands, which lie between Australia and the north coast of Tasmania."
+      },
+      "geometry": {
+        "coordinates": [146.38227119586918, -39.048598993434375],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 14,
+        "icon": "sight",
+        "title": "Glennie Island",
+        "chapter": 3
+      },
+      "geometry": {
+        "coordinates": [146.2358954516232, -39.08944587110597],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 15,
+        "icon": "sight",
+        "title": "Curtis Island",
+        "chapter": 3
+      },
+      "geometry": {
+        "coordinates": [146.64729818769285, -39.47084548441391],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 16,
+        "icon": "sight",
+        "title": "Pyramide Rock (Bass Pyramide)",
+        "chapter": 3
+      },
+      "geometry": {
+        "coordinates": [147.2447131070782, -39.81966742981937],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 17,
+        "icon": "sight",
+        "title": "Goose Island",
+        "chapter": 3
+      },
+      "geometry": {
+        "coordinates": [147.79709338237512, -40.306178822653166],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 18,
+        "icon": "sight",
+        "title": "Flinders Island",
+        "chapter": 3
+      },
+      "geometry": {
+        "coordinates": [148.10509488966136, -39.9967435607537],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 19,
+        "icon": "sight",
+        "title": "Swan Island",
+        "chapter": 3
+      },
+      "geometry": {
+        "coordinates": [148.10735629269192, -40.7363722056861],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 20,
+        "icon": "sight",
+        "title": "Forsyth Island",
+        "chapter": 3
+      },
+      "geometry": {
+        "coordinates": [148.31137198031416, -40.51025217084622],
+        "type": "Point"
+      }
+    }
+  ]
+}
