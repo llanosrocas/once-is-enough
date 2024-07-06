@@ -1,5 +1,6 @@
 import journeySightCoords from './geo/journey-sight.json' assert { type: 'json' };
 import journeyCoords from './geo/journey.json' assert { type: 'json' };
+import { arrowConfig } from './ui/arrows';
 import { icons } from './ui/icons';
 import { buildPopup } from './ui/popup';
 
@@ -28,12 +29,6 @@ export const journeyMarkersLayer = L.markerClusterGroup({
     }, []),
   ),
 );
-
-const arrowConfig = {
-  size: `5%`,
-  frequency: '20000m',
-  offsets: { end: '10px' },
-};
 
 export const journeyPathLayer = L.featureGroup([
   L.polyline(
