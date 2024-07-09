@@ -133,7 +133,7 @@
         "icon": "yacht",
         "chapter": 3,
         "date": ["1956-12-26"],
-        "description": "I hung up my coat in the oilskin locker, in front of the chart table, and then turned to the chart and laid a course down past Wilson Promontory, past Rodonda Island and the Curtis group, and up to the entrance of the Banks Strait, the southern passage through the islands, which lie between Australia and the north coast of Tasmania."
+        "description": "I hung up my coat in the oilskin locker, in front of the chart table, and then turned to the chart and laid a course down past <u>Wilson Promontory</u>, past <u>Rodonda Island</u> and the <u>Curtis group</u>, and up to the entrance of the <u>Banks Strait</u>, the southern passage through the islands, which lie between Australia and the north coast of Tasmania."
       },
       "geometry": {
         "coordinates": [146.19118236387408, -39.10917507687288],

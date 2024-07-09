@@ -1,5 +1,6 @@
-import journeySightCoords from './geo/journey-sight.json' assert { type: 'json' };
-import journeyCoords from './geo/journey.json' assert { type: 'json' };
+import L from 'leaflet';
+import journeySightCoords from './geo/journey-sight.json' with { type: 'json' };
+import journeyCoords from './geo/journey.json' with { type: 'json' };
 import { arrowConfig } from './ui/arrows';
 import { icons } from './ui/icons';
 import { buildPopup } from './ui/popup';

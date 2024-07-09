@@ -1,4 +1,4 @@
-# Once Is Enough
+# Once is Enough
 
 A visualization of the journey from the book "Once is Enough".
 
@@ -24,6 +24,7 @@ All coordinates, pathes and distances are replicated as closely as possible but 
 - [scss](https://github.com/sass/sass)
 - [pnpm](https://pnpm.io/)
 - [Icon pack](https://www.svgrepo.com/collection/travel-outlined-filled-vectors/)
+- [OG image](https://unsplash.com/photos/huge-wave-at-daytime-KrQJzrZiCak)
 
 ## Copyright Notice
 

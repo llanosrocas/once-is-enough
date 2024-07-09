@@ -1,3 +1,5 @@
+import L from 'leaflet';
+
 export const iconConfig = {
   iconSize: [24, 24],
   popupAnchor: [0, -12],

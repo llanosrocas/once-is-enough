@@ -1,3 +1,5 @@
+import L from 'leaflet';
+
 export const baseMaps = {
   Standart: L.tileLayer(
     'https://{s}.basemaps.cartocdn.com/rastertiles/voyager_labels_under/{z}/{x}/{y}{r}.png',

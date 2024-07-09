@@ -1,3 +1,5 @@
+import L from 'leaflet';
+
 export const legend = L.control({ position: 'bottomright' });
 legend.onAdd = () => {
   const div = L.DomUtil.create('details', 'legend');

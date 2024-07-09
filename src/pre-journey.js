@@ -1,4 +1,5 @@
-import preJourneyCoords from './geo/pre-journey.json' assert { type: 'json' };
+import L from 'leaflet';
+import preJourneyCoords from './geo/pre-journey.json' with { type: 'json' };
 import { arrowConfig } from './ui/arrows';
 
 export const preJourneyPathLayer = L.featureGroup([

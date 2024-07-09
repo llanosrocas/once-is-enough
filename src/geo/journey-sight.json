@@ -64,7 +64,7 @@
         "icon": "sight",
         "title": "Yarra River",
         "chapter": 2,
-        "description": "It was a sparkling summer day, with a light wind blowing up the Yarra River. A little further down, a big cargo ship was docking. The tug, whose whistle had stirred us to movement, was pushing the steamer’s stern in to the wharf."
+        "description": "It was a sparkling summer day, with a light wind blowing up the <u>Yarra River</u>. A little further down, a big cargo ship was docking. The tug, whose whistle had stirred us to movement, was pushing the steamer’s stern in to the wharf."
       },
       "geometry": {
         "coordinates": [144.92172558870135, -37.819264300118775],
@@ -134,7 +134,7 @@
         "icon": "sight",
         "title": "Westernport (bay)",
         "chapter": 2,
-        "description": "We turned in for the rest of the night, and early next morning set off for Westernport, a few miles down the coast and up a long arm of the sea."
+        "description": "We turned in for the rest of the night, and early next morning set off for <u>Westernport</u>, a few miles down the coast and up a long arm of the sea."
       },
       "geometry": {
         "coordinates": [145.25108377480393, -38.38644690075653],
@@ -148,7 +148,7 @@
         "icon": "sight",
         "title": "Cowes",
         "chapter": 2,
-        "description": "We tied up to a wharf at a small harbour called Cowes, leaving an anchor out to hold us off the wharf if the wind shifted."
+        "description": "We tied up to a wharf at a small harbour called <u>Cowes</u>, leaving an anchor out to hold us off the wharf if the wind shifted."
       },
       "geometry": {
         "coordinates": [145.23982390116987, -38.44893697586728],
@@ -162,7 +162,7 @@
         "icon": "sight",
         "title": "Seal Rocks",
         "chapter": 2,
-        "description": "We kept under power until we were far enough out to clear Seal Rocks on the port tack, on our course for the south.\n'I wonder how many rocks there are in the world called 'Seal Rocks'?' said John.\n'Let’s hope the next 'Seal Rocks' will be called 'Los Lobos',' said Beryl, 'that’s what they call them in South America.'"
+        "description": "We kept under power until we were far enough out to clear <u>Seal Rocks</u> on the port tack, on our course for the south.\n'I wonder how many rocks there are in the world called 'Seal Rocks'?' said John.\n'Let’s hope the next 'Seal Rocks' will be called 'Los Lobos',' said Beryl, 'that’s what they call them in South America.'"
       },
       "geometry": {
         "coordinates": [145.09968510900148, -38.52641599894474],
@@ -176,7 +176,7 @@
         "icon": "sight",
         "title": "Wilson Promontory",
         "chapter": 3,
-        "description": "I hung up my coat in the oilskin locker, in front of the chart table, and then turned to the chart and laid a course down past Wilson Promontory, past Rodonda Island and the Curtis group, and up to the entrance of the Banks Strait, the southern passage through the islands, which lie between Australia and the north coast of Tasmania."
+        "description": "I hung up my coat in the oilskin locker, in front of the chart table, and then turned to the chart and laid a course down past <u>Wilson Promontory</u>, past <u>Rodonda Island</u> and the <u>Curtis group</u>, and up to the entrance of the <u>Banks Strait</u>, the southern passage through the islands, which lie between Australia and the north coast of Tasmania."
       },
       "geometry": {
         "coordinates": [146.38227119586918, -39.048598993434375],
