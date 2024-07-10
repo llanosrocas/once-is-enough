@@ -1,3 +1,9 @@
+:root {
+  --color-journey: rgba(69, 146, 253, 0.6);
+  --color-pre-journey: rgba(234, 218, 48, 0.6);
+  --color-sight: rgba(62, 183, 84, 0.6);
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -98,15 +104,15 @@ footer {
     }
 
     &-journey {
-      background-color: rgb(69, 146, 253, 0.6);
+      background-color: var(--color-journey);
     }
 
     &-prejourney {
-      background-color: rgba(234, 218, 48, 0.6);
+      background-color: var(--color-pre-journey);
     }
 
     &-sight {
-      background-color: rgb(62, 183, 84, 0.6);
+      background-color: var(--color-sight);
     }
   }
 }
@@ -152,6 +158,6 @@ footer {
   }
 
   &-sight {
-    background-color: rgba(62, 183, 84, 0.6);
+    background-color: var(--color-sight);
   }
 }

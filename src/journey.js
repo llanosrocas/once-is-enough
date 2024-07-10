@@ -5,6 +5,15 @@ import { arrowConfig } from './ui/arrows';
 import { icons } from './ui/icons';
 import { buildPopup } from './ui/popup';
 
+export const journeyPathLayer = L.featureGroup([
+  // init empty line and add coords while creating journey markers to avoid remap
+  L.polyline([], {
+    opacity: 0.75,
+    showMeasurements: true,
+    measurementOptions: { showOnHover: true },
+  }).arrowheads(arrowConfig),
+]);
+
 export const journeyMarkersLayer = L.markerClusterGroup({
   iconCreateFunction: cluster =>
     L.divIcon({
@@ -26,23 +35,15 @@ export const journeyMarkersLayer = L.markerClusterGroup({
         acc.push(marker);
       }
 
+      journeyPathLayer
+        // this feature group has only one layer so just add polyline coords
+        .getLayers()[0]
+        .addLatLng(L.GeoJSON.coordsToLatLng(geometry.coordinates));
+
       return acc;
     }, []),
   ),
 );
-
-export const journeyPathLayer = L.featureGroup([
-  L.polyline(
-    journeyCoords.features.map(({ geometry }) =>
-      L.GeoJSON.coordsToLatLng(geometry.coordinates),
-    ),
-    {
-      opacity: 0.75,
-      showMeasurements: true,
-      measurementOptions: { showOnHover: true },
-    },
-  ).arrowheads(arrowConfig),
-]);
 
 export const journeySightMarkersLayer = L.markerClusterGroup({
   iconCreateFunction: cluster =>
