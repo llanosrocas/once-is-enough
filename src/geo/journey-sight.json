@@ -189,7 +189,8 @@
         "id": 14,
         "icon": "sight",
         "title": "Glennie Island",
-        "chapter": 3
+        "chapter": 3,
+        "description": "'Any lights?'\n'Yes, you can see <u>Glennie Island</u> light just abeam, and Wilson Promontory ahead, only the loom of <u>Wilson Promontory though</u>.'"
       },
       "geometry": {
         "coordinates": [146.2358954516232, -39.08944587110597],
@@ -202,7 +203,8 @@
         "id": 15,
         "icon": "sight",
         "title": "Curtis Island",
-        "chapter": 3
+        "chapter": 3,
+        "description": "The sky had cleared slightly, and dark against a dark sky, but clearly visible, was <u>Curtis Island</u>. Perhaps it was a good three miles away, but it looked much closer."
       },
       "geometry": {
         "coordinates": [146.64729818769285, -39.47084548441391],
@@ -215,7 +217,8 @@
         "id": 16,
         "icon": "sight",
         "title": "Pyramide Rock (Bass Pyramide)",
-        "chapter": 3
+        "chapter": 3,
+        "description": "By the time all this was done Beryl appeared at the hatch. I showed her <u>Pyramid Rock</u>, a jagged tooth sticking abruptly out of the sea on the port quarter."
       },
       "geometry": {
         "coordinates": [147.2447131070782, -39.81966742981937],
@@ -228,7 +231,8 @@
         "id": 17,
         "icon": "sight",
         "title": "Goose Island",
-        "chapter": 3
+        "chapter": 3,
+        "description": "After a time we could make out a small mark on the horizon ahead which took form gradually. A lighthouse, a black lighthouse instead of a white one, as described in the pilot book, but a lighthouse all the same, on a low flat island. It was <u>Goose Island</u>, and as we rounded it we entered the <u>Banks Strait</u>."
       },
       "geometry": {
         "coordinates": [147.79709338237512, -40.306178822653166],
@@ -241,7 +245,8 @@
         "id": 18,
         "icon": "sight",
         "title": "Flinders Island",
-        "chapter": 3
+        "chapter": 3,
+        "description": "After breakfast we could see <u>Flinders Island</u> indistinctly, and soon we began to try to pick out the entrance to the <u>Banks Strait</u>."
       },
       "geometry": {
         "coordinates": [148.10509488966136, -39.9967435607537],
@@ -254,7 +259,8 @@
         "id": 19,
         "icon": "sight",
         "title": "Swan Island",
-        "chapter": 3
+        "chapter": 3,
+        "description": "<u>Forsyth Island</u> to port and the green Tasmanian Coast away to starboard, and the boom as wide as could be in order to let us get round <u>Swan Island</u>."
       },
       "geometry": {
         "coordinates": [148.10735629269192, -40.7363722056861],
@@ -267,7 +273,8 @@
         "id": 20,
         "icon": "sight",
         "title": "Forsyth Island",
-        "chapter": 3
+        "chapter": 3,
+        "description": "<u>Forsyth Island</u> to port and the green Tasmanian Coast away to starboard, and the boom as wide as could be in order to let us get round <u>Swan Island</u>."
       },
       "geometry": {
         "coordinates": [148.31137198031416, -40.51025217084622],
